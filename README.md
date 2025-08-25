@@ -10,7 +10,7 @@ A command-line utility to back up and restore databases. Supports PostgreSQL, My
 ## Installation
 ### Clone the repository:
 ```bash
-git clone https://github.com/Leela005/Database-Backup-CLI-Utility.git
+git clone https://github.com/Leela0o5/Database-Backup-CLI-Utility.git
 cd Database-Backup-CLI-Utility
 ```
 
